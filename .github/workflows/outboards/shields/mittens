@@ -1,0 +1,7 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=DavidDobrovolny/my-shield-module
+outboard_ref=main
+outboard_from=boards/shields/mittens
+outboard_to=boards/shields/mittens
